@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'hello-world git checkout -b SSP-80-new-story-test-for-ci-cd-after-integration' ;
+  title = 'hello-world git checkout  SSP-80-new-story-test-for-ci-cd-after-integration' ;
 }
