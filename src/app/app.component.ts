@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello-world git checkoutSSP   0-new-story-test-for-ci-cd-after-integration' ;
-  str="test14.05"
+  str="test14.05.22"
 }
